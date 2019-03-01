@@ -18,7 +18,7 @@ Version 0.2 include:
 -Game over<br>
 For this moment all settings except Master Volume is disable.<br>
 
-**Screen schot**
+**Screenshot**
 ![alt text](https://i.imgur.com/LQfDHJs.png)
 ![alt text](https://i.imgur.com/nhUlEBi.png)
 ![alt text](https://i.imgur.com/rjGlC6W.png)
