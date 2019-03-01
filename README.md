@@ -2,7 +2,13 @@
 
 My first game created in ~5-6 days, made for start learning unity and C# scripts.
 
-Pixel Leauge its soccer like 2D game
+**Gamplay:**
+Pixel Leauge its soccer like 2D game.
+Try to hit a goal, and score 5 points before your opponent.
+
+**DOWNLOAD**
+[ https://drive.google.com/drive/folders/1Z-F4_IbWyy1c6vRncw325_YwJbhFkgvJ?usp=sharing ]
+
 
 Version 0.2 include:
 4 scene:<br>
@@ -11,13 +17,6 @@ Version 0.2 include:
 -Main game<br>
 -Game over<br>
 For this moment all settings except Master Volume is disable.<br>
-
-**DOWNLOAD**
-[ https://drive.google.com/drive/folders/1Z-F4_IbWyy1c6vRncw325_YwJbhFkgvJ?usp=sharing ]
-
-**Gamplay:**
-Try to hit a goal, and score 5 points before your opponent.
-
 
 **Screen schot**
 ![alt text](https://i.imgur.com/LQfDHJs.png)
