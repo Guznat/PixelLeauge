@@ -7,7 +7,7 @@ Pixel Leauge its soccer like 2D game.
 Try to hit a goal, and score 5 points before your opponent.
 
 **DOWNLOAD**
-0.3v [https://drive.google.com/open?id=1Zvazm9M2kBCKhxbnika3m1Ct9qRDxENj]
+0.3v [https://drive.google.com/open?id=1Zvazm9M2kBCKhxbnika3m1Ct9qRDxENj] <br>
 0.2v [ https://drive.google.com/drive/folders/1Z-F4_IbWyy1c6vRncw325_YwJbhFkgvJ?usp=sharing ]
 
 Patch note v0.3:
