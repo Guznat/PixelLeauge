@@ -10,12 +10,12 @@ Try to hit a goal, and score 5 points before your opponent.
 0.3v [https://drive.google.com/open?id=1Zvazm9M2kBCKhxbnika3m1Ct9qRDxENj] <br>
 0.2v [ https://drive.google.com/drive/folders/1Z-F4_IbWyy1c6vRncw325_YwJbhFkgvJ?usp=sharing ]
 
-Patch note v0.3:<br>
+**Patch note v0.3:**<br>
 New scene: Game mode.<br>
 -Single player -Include very simple, imperfectly and broke AI for improvements in the future :p.
 -Multi player.
 
-Patch note v0.2:<br>
+**Patch note v0.2:**<br>
 4 scene:<br>
 -Menu<br>
 -Settings<br>
