@@ -1,11 +1,13 @@
-**PIXEL LEAUGE**
-
+![alt text](https://i.imgur.com/nNKWffG.png)
+<br>
+<br>
+<br>
 My first game, made for start learning unity and C# scripts.
-
+<br>
 **Gamplay:**
 Pixel Leauge its soccer like 2D game.
 Try to hit a goal, and score 5 points before your opponent.
-
+<br><br>
 **DOWNLOAD** <br>
 0.4v [https://drive.google.com/open?id=16sc7UuISncKenSyAvXOzLf11B60wblZU] <br>
 0.3v [https://drive.google.com/open?id=1Zvazm9M2kBCKhxbnika3m1Ct9qRDxENj] <br>
